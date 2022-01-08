@@ -1,6 +1,6 @@
 ### Hi there, I'm Anjali 👋🏽
 
-I am a Senior at UBC majoring in Statistics 📊
+I am a senior at UBC majoring in Statistics 📊
 
 You can reach me via [email](mailto:anjalivschauhan@gmail.com?Subject=Hi%20there!) or [LinkedIn](https://www.linkedin.com/in/anjalischauhan/). To check out a list of projects that I've been working on: [anjali-chauhan.github.io](https://anjali-chauhan.github.io)
 
