@@ -12,8 +12,8 @@ I major in Statistics because I love to get creative and challenged with data, a
 <a href="https://kaggle.com/anjalichauhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="anjalichauhan" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali-chauhan" alt="anjali-chauhan" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali-chauhan" alt="anjali-chauhan" /> </p>
 
 [![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjali-chauhan&hide=stars,prs,issues&show_icons=true&hide_title=true&count_private=true&include_all_commits=true)](https://anjali-chauhan.github.io)
 
-[![Anjali's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-chauhan&layout=compact&hide_title=true)](https://github.com/anjali-chauhan)
+[![Anjali's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-chauhan&layout=compact&hide_title=true)](https://github.com/anjali-chauhan)-->
