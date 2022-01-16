@@ -8,6 +8,7 @@ I major in Statistics because I love to get creative and challenged with data, a
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
+<a href="https://fb.com/angieeChauhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mayeesha.tahsin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anjalischauhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tahsin-mayeesha" height="30" width="40" /></a>
 <a href="https://kaggle.com/anjalichauhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="anjalichauhan" height="30" width="40" /></a>
 </p>
