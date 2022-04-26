@@ -4,7 +4,7 @@ I am a senior at UBC majoring in Statistics 📊
 
 <!-- To check out a list of projects that I've been working on: [anjali-chauhan.github.io](https://anjali-chauhan.github.io) -->
 
-I major in Statistics because I love to get creative and challenged with data, and the projects I work on could potentially impact millions of people around the globe. I'm currently interning at [Royal Bank Of Canada](https://www.rbc.com/about-rbc.html). Feel free to reach out if you'd like to learn more about my experience or any of the projects I've worked on. I'd love to have a chat ✨
+I'm majoring in Statistics because I love to get creative and challenged with data, and the projects I work on could potentially impact millions of people around the globe. I'm currently a Research Fellow at [UBC Data Science Institute](https://dsi.ubc.ca/). I have previously interned at [Royal Bank Of Canada](https://www.rbc.com/about-rbc.html). Feel free to reach out if you'd like to learn more about my experience or any of the projects I've worked on. I'd love to have a chat ✨
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
